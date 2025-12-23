@@ -1,7 +1,5 @@
 *
 !.gitignore
 !README.md
-!results/
 !suicide_final_project/
-
-
+!suicide_final_project/**
