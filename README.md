@@ -134,6 +134,7 @@ The final fine‑tuned model on the held‑out test set achieves:
 - **Eval loss**: 0.19  
 
 Metrics are computed with weighted averaging across the two classes (`non_suicide`, `suicide`).
+<img width="1411" height="599" alt="results" src="https://github.com/user-attachments/assets/972ec14c-ddcf-42b7-a830-9d4e68d4d59b" />
 
 #### Example: Run training
 
