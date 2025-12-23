@@ -122,6 +122,18 @@ Key components:
     - `EarlyStoppingCallback` for regularization.
   - Saves the best model and tokenizer into the `results/` directory.
 
+### Model Performance
+
+The final fine‑tuned model on the held‑out test set achieves:
+
+- **Accuracy**: 0.93  
+- **F1‑score**: 0.93  
+- **Precision**: 0.93  
+- **Recall**: 0.93  
+- **Eval loss**: 0.19  
+
+Metrics are computed with weighted averaging across the two classes (`non_suicide`, `suicide`).
+
 #### Example: Run training
 
 From the `suicide_final_project/final` directory:
