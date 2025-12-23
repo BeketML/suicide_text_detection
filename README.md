@@ -12,6 +12,7 @@ The project includes:
 - **Inference API** using FastAPI.
 - **Streamlit web interface** for interactive testing.
 - **Utilities** for uploading the trained model and dataset to Hugging Face Hub.
+<img width="843" height="944" alt="streamlit_ui" src="https://github.com/user-attachments/assets/0b97af5a-51e3-4066-8be4-c1cd1bc6d4ca" />
 
 ---
 
